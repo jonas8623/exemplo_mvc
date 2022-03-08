@@ -12,7 +12,7 @@ Arquitetura básica com MVC para realizar o cáculo de IMC.
 - [x] Cadastro de peso
 - [x] Cáculo do IMC
 - [x] Utilizado MVC
-- [x] Realizado Teste unitário  
+- [x] Teste unitário  
 
 ### 🛠 Tecnologias
 
